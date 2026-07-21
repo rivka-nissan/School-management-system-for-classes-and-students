@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "כיתה א1",
+    "grade": "א",
+    "homeroomTeacher": "שרה כהן",
+    "studentsCount": 6
+  },
+  {
+    "id": 2,
+    "name": "כיתה א2",
+    "grade": "א",
+    "homeroomTeacher": "רחל לוי",
+    "studentsCount": 6
+  },
+  {
+    "id": 3,
+    "name": "כיתה ב1",
+    "grade": "ב",
+    "homeroomTeacher": "מרים פרידמן",
+    "studentsCount": 6
+  },
+  {
+    "id": 4,
+    "name": "כיתה ב2",
+    "grade": "ב",
+    "homeroomTeacher": "לאה וייס",
+    "studentsCount": 6
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "classId": 1,
+    "identityNumber": "123456782",
+    "firstName": "דוד",
+    "lastName": "כהן",
+    "parentPhone": "0501234501",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 2,
+    "classId": 1,
+    "identityNumber": "123456790",
+    "firstName": "משה",
+    "lastName": "לוי",
+    "parentPhone": "0501234502",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 3,
+    "classId": 1,
+    "identityNumber": "123456808",
+    "firstName": "יוסף",
+    "lastName": "פרידמן",
+    "parentPhone": "0501234503",
+    "status": "INACTIVE"
+  },
+  {
+    "id": 4,
+    "classId": 1,
+    "identityNumber": "123456816",
+    "firstName": "אהרן",
+    "lastName": "וייס",
+    "parentPhone": "0501234504",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 5,
+    "classId": 1,
+    "identityNumber": "123456824",
+    "firstName": "שמואל",
+    "lastName": "גרין",
+    "parentPhone": "0501234505",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 6,
+    "classId": 1,
+    "identityNumber": "123456832",
+    "firstName": "ישראל",
+    "lastName": "קליין",
+    "parentPhone": "0501234506",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 7,
+    "classId": 2,
+    "identityNumber": "223456781",
+    "firstName": "יעקב",
+    "lastName": "רוזנברג",
+    "parentPhone": "0521234501",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 8,
+    "classId": 2,
+    "identityNumber": "223456799",
+    "firstName": "אליהו",
+    "lastName": "גולדברג",
+    "parentPhone": "0521234502",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 9,
+    "classId": 2,
+    "identityNumber": "223456807",
+    "firstName": "נחמן",
+    "lastName": "שטיין",
+    "parentPhone": "0521234503",
+    "status": "INACTIVE"
+  },
+  {
+    "id": 10,
+    "classId": 2,
+    "identityNumber": "223456815",
+    "firstName": "מאיר",
+    "lastName": "ברק",
+    "parentPhone": "0521234504",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 11,
+    "classId": 2,
+    "identityNumber": "223456823",
+    "firstName": "אברהם",
+    "lastName": "פרץ",
+    "parentPhone": "0521234505",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 12,
+    "classId": 2,
+    "identityNumber": "223456831",
+    "firstName": "שלמה",
+    "lastName": "כץ",
+    "parentPhone": "0521234506",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 13,
+    "classId": 3,
+    "identityNumber": "323456780",
+    "firstName": "חיים",
+    "lastName": "בלום",
+    "parentPhone": "0531234501",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 14,
+    "classId": 3,
+    "identityNumber": "323456798",
+    "firstName": "מרדכי",
+    "lastName": "שפירא",
+    "parentPhone": "0531234502",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 15,
+    "classId": 3,
+    "identityNumber": "323456806",
+    "firstName": "בנימין",
+    "lastName": "הלוי",
+    "parentPhone": "0531234503",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 16,
+    "classId": 3,
+    "identityNumber": "323456814",
+    "firstName": "נתנאל",
+    "lastName": "רוט",
+    "parentPhone": "0531234504",
+    "status": "INACTIVE"
+  },
+  {
+    "id": 17,
+    "classId": 3,
+    "identityNumber": "323456822",
+    "firstName": "יהודה",
+    "lastName": "מזרחי",
+    "parentPhone": "0531234505",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 18,
+    "classId": 3,
+    "identityNumber": "323456830",
+    "firstName": "יצחק",
+    "lastName": "אדלר",
+    "parentPhone": "0531234506",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 19,
+    "classId": 4,
+    "identityNumber": "423456789",
+    "firstName": "אליעזר",
+    "lastName": "ברמן",
+    "parentPhone": "0541234501",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 20,
+    "classId": 4,
+    "identityNumber": "423456797",
+    "firstName": "צבי",
+    "lastName": "לבין",
+    "parentPhone": "0541234502",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 21,
+    "classId": 4,
+    "identityNumber": "423456805",
+    "firstName": "אריה",
+    "lastName": "ברגר",
+    "parentPhone": "0541234503",
+    "status": "INACTIVE"
+  },
+  {
+    "id": 22,
+    "classId": 4,
+    "identityNumber": "423456813",
+    "firstName": "נפתלי",
+    "lastName": "מנדל",
+    "parentPhone": "0541234504",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 23,
+    "classId": 4,
+    "identityNumber": "423456821",
+    "firstName": "הלל",
+    "lastName": "אוחנה",
+    "parentPhone": "0541234505",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 24,
+    "classId": 4,
+    "identityNumber": "423456839",
+    "firstName": "רפאל",
+    "lastName": "סגל",
+    "parentPhone": "0541234506",
+    "status": "ACTIVE"
+  }
+]

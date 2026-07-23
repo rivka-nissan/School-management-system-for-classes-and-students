@@ -1,4 +1,4 @@
-# GoodAsik — Architecture & Flow Documentation
+# — Architecture & Flow Documentation
 
 ## תוכן עניינים
 1. [סקירה כללית](#סקירה-כללית)
